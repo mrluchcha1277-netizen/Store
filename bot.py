@@ -24,7 +24,7 @@ from telegram.ext import (
 # =============================================================
 # BOT TOKEN (PUT YOUR TOKEN HERE)
 # =============================================================
-TOKEN = "PUT-YOUR-BOT-TOKEN-HERE"
+TOKEN = "8456520266:AAFFN9gK7WT8WmPyoEdNPj3F8tVJXhhGGoo"
 
 # =============================================================
 # AUTO JSON INITIALIZER (GSM HOSTING SUPPORT)
